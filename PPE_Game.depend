@@ -1,0 +1,493 @@
+# depslib dependency file v1.0
+1447941548 source:c:\users\bts-sio\desktop\ppe_game\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1455015760 c:\sdl-1.2.15\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1455015760 c:\sdl-1.2.15\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1455015760 c:\sdl-1.2.15\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1455015760 c:\sdl-1.2.15\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1455015760 c:\sdl-1.2.15\include\sdl\sdl_platform.h
+
+1455015760 c:\sdl-1.2.15\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1455015760 c:\sdl-1.2.15\include\sdl\begin_code.h
+
+1455015760 c:\sdl-1.2.15\include\sdl\close_code.h
+
+1455015760 c:\sdl-1.2.15\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1455015760 c:\sdl-1.2.15\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1455015760 c:\sdl-1.2.15\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1455015760 c:\sdl-1.2.15\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1455015760 c:\sdl-1.2.15\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1455015760 c:\sdl-1.2.15\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1455015760 c:\sdl-1.2.15\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1455015760 c:\sdl-1.2.15\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1455015760 c:\sdl-1.2.15\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1455015760 c:\sdl-1.2.15\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1455015760 c:\sdl-1.2.15\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1455015760 c:\sdl-1.2.15\include\sdl\sdl_keysym.h
+
+1455015760 c:\sdl-1.2.15\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1455015760 c:\sdl-1.2.15\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1455015760 c:\sdl-1.2.15\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1455015760 c:\sdl-1.2.15\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1455015760 c:\sdl-1.2.15\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1455015760 c:\sdl-1.2.15\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1455015760 c:\sdl-1.2.15\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1448890346 source:c:\users\bts-sio\desktop\ppe_game\main.c
+	"graphic.h"
+
+1448285104 source:c:\users\bts-sio\desktop\ppe_game\graphic.c
+	"graphic.h"
+
+1448896370 c:\users\bts-sio\desktop\ppe_game\graphic.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<cstring>
+	<cstdlib>
+
+1448285104 c:\users\bts-sio\desktop\ppe_game\graphic.c
+	"graphic.h"
+
+1448288286 source:c:\users\vannier-t\desktop\ppe_game2\main.c
+	"graphic.h"
+
+1448351328 source:c:\users\vannier-t\desktop\ppe_game2\graphic.cpp
+	"graphic.h"
+
+1448288322 c:\users\vannier-t\desktop\ppe_game2\graphic.h
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
+1448974510 source:c:\users\vannier-t\desktop\ppe_game\main.c
+	"graphic.h"
+
+1448975481 c:\users\vannier-t\desktop\ppe_game\graphic.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<cstring>
+	<cstdlib>
+
+1448967892 source:c:\users\vannier-t\desktop\ppe_game\graphic.cpp
+	"graphic.h"
+	<string>
+	<vector>
+	<assert.h>
+	<iostream>
+
+1455015760 c:\sdl-1.2.15\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1448894759 source:c:\users\bts-sio\desktop\ppe_game\graphic.cpp
+	"graphic.h"
+	<string>
+	<vector>
+
+1449216627 source:c:\documents and settings\vannier-t\bureau\ppe_game\main.c
+	"graphic.h"
+
+1451913314 c:\documents and settings\vannier-t\bureau\ppe_game\graphic.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<cstring>
+	<cstdlib>
+
+1451926778 source:c:\users\tibius\desktop\ppe_game\main.c
+	"graphic.h"
+
+1451913314 c:\users\tibius\desktop\ppe_game\graphic.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<cstring>
+	<cstdlib>
+
+1451926764 source:c:\users\tibius\desktop\ppe_game\graphic.cpp
+	"graphic.h"
+	<string>
+	<vector>
+	<assert.h>
+	<iostream>
+
+1451926766 source:c:\documents and settings\vannier-t\bureau\ppe_game\graphic.cpp
+	"graphic.h"
+	<string>
+	<vector>
+	<assert.h>
+	<iostream>
+
+1455015760 c:\sdl-1.2.15\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1455263890 source:c:\users\tibius_portable\desktop\ppe_game\main.c
+	"graphic.h"
+	"MySQL.h"
+
+1455537114 c:\users\tibius_portable\desktop\ppe_game\graphic.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<cstring>
+	<cstdlib>
+
+1455204462 source:c:\users\tibius_portable\desktop\ppe_game\graphic.cpp
+	"graphic.h"
+	<string>
+	<vector>
+	<assert.h>
+	<iostream>
+
+1455537072 c:\users\tibius_portable\desktop\ppe_game\mysql.h
+
+1455015821 source:c:\users\admin\desktop\ppe_game\graphic.cpp
+	"graphic.h"
+	<string>
+	<vector>
+	<assert.h>
+	<iostream>
+
+1455015820 c:\users\admin\desktop\ppe_game\graphic.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<cstring>
+	<cstdlib>
+
+1455032272 source:c:\users\admin\desktop\ppe_game\mysql.cpp
+	<winsock.h>
+	<MYSQL/mysql.h>
+
+1455016518 c:\sdl-1.2.15\include\mysql\mysql.h
+	<sys/types.h>
+	<winsock.h>
+	"mysql_com.h"
+	"mysql_time.h"
+	"mysql_version.h"
+	"typelib.h"
+	"my_list.h"
+	"my_alloc.h"
+
+1455016518 c:\sdl-1.2.15\include\mysql\mysql_com.h
+
+1455016518 c:\sdl-1.2.15\include\mysql\mysql_time.h
+
+1455016518 c:\sdl-1.2.15\include\mysql\mysql_version.h
+	<custom_conf.h>
+
+1455016518 c:\sdl-1.2.15\include\mysql\typelib.h
+
+1455016518 c:\sdl-1.2.15\include\mysql\my_list.h
+
+1455016518 c:\sdl-1.2.15\include\mysql\my_alloc.h
+
+1455032197 source:c:\users\admin\desktop\ppe_game\main.c
+	"graphic.h"
+	"MySQL.h"
+
+1455015610 c:\users\admin\desktop\ppe_game\mysql.h
+
+1455032272 source:c:\users\tibius_portable\desktop\ppe_game\mysql.cpp
+	<winsock.h>
+	<MYSQL/mysql.h>
+
+1455204464 source:c:\users\théo\documents\etudes\labyrinthe\ppe_game\graphic.cpp
+	"graphic.h"
+	<string>
+	<vector>
+	<assert.h>
+	<iostream>
+
+1455537428 c:\users\théo\documents\etudes\labyrinthe\ppe_game\graphic.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<cstring>
+	<cstdlib>
+
+1455032274 source:c:\users\théo\documents\etudes\labyrinthe\ppe_game\mysql.cpp
+	<winsock.h>
+	<MYSQL/mysql.h>
+
+1457621147 source:c:\users\théo\documents\etudes\labyrinthe\ppe_game\main.c
+	"graphic.h"
+	"Labyrinthe.h"
+
+1457618948 c:\users\théo\documents\etudes\labyrinthe\ppe_game\labyrinthe.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+
+1455204464 source:h:\labyrinthe\algosortie\labyrinthe\ppe_game\graphic.cpp
+	"graphic.h"
+	<string>
+	<vector>
+	<assert.h>
+	<iostream>
+
+1455537428 h:\labyrinthe\algosortie\labyrinthe\ppe_game\graphic.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<cstring>
+	<cstdlib>
+
+1458925128 source:h:\labyrinthe\algosortie\labyrinthe\ppe_game\main.c
+	"graphic.h"
+	"Labyrinthe.h"
+
+1457618950 h:\labyrinthe\algosortie\labyrinthe\ppe_game\labyrinthe.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+
+1455032274 source:h:\labyrinthe\algosortie\labyrinthe\ppe_game\mysql.cpp
+	<winsock.h>
+	<MYSQL/mysql.h>
+
+1455208064 source:c:\users\steph\desktop\slam bts sio\labyrinthe\graphic.cpp
+	"graphic.h"
+	<string>
+	<vector>
+	<assert.h>
+	<iostream>
+
+1455541028 c:\users\steph\desktop\slam bts sio\labyrinthe\graphic.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<cstring>
+	<cstdlib>
+
+1458925758 source:c:\users\steph\desktop\slam bts sio\labyrinthe\main.c
+	"graphic.h"
+	"Labyrinthe.h"
+
+1457618950 c:\users\steph\desktop\slam bts sio\labyrinthe\labyrinthe.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+
+1455035874 source:c:\users\steph\desktop\slam bts sio\labyrinthe\mysql.cpp
+	<winsock.h>
+	<MYSQL/mysql.h>
+
